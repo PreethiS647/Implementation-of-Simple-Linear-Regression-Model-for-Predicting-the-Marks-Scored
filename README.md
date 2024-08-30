@@ -39,11 +39,11 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error,mean_squared_error
 df=pd.read_csv("C:/Users/admin/Downloads/student_scores.csv")
 df.head()
-
+```
 ![image](https://github.com/user-attachments/assets/b8493b37-d5ca-4fca-b42d-008fbdf63cd1)
-
+```
 df.tail()
-
+```
 ![image](https://github.com/user-attachments/assets/38f21ff2-0b8f-4ad8-a604-76fa8c83c247)
 
 
